@@ -1,6 +1,6 @@
 # sparkling-wine-sales-forecasting
 
-Time series analysis and forecasting of monthly Sparkling wine sales for ABC Estate Wines (1980–1995). Built as a full-code data science project covering EDA, decomposition, 8 forecasting models, model comparison, and a 12-month forward forecast.
+Time series analysis and forecasting of monthly Sparkling wine sales for ABC Estate Wines (1980–1995). Built as a full-code data science project covering EDA, decomposition, 8 forecasting models, model comparison and a 12-month forward forecast.
 
 ---
 
